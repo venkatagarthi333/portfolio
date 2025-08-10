@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Skills = () => {
-  const skillSet = ['JavaScript (ES6+)', 'React', 'Node.js', 'Express', 'HTML5 & CSS3', 'Sass', 'Tailwind CSS', 'Git & GitHub', 'MongoDB'];
+  const skillSet = ['Java', 'Spring Boot','REST APIs', 'HTML & CSS', 'JavaScript', 'ReactJS', 'MYSQL', 'Git & GitHub','VS Code','Intellij IDEA'];
 
   return (
     <section id="skills">

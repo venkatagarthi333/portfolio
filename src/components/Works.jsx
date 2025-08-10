@@ -4,18 +4,18 @@ import ProjectCard from './ProjectCard';
 
 const projectData = [
   {
-    title: 'E-commerce Website',
-    description: 'A full-featured e-commerce site built with the MERN stack.',
+    title: 'StayEase - Hostel Management System',
+    description: 'A full-featured PG hostel management system built with Java Spring Boot and React.',
     imageUrl: 'https://via.placeholder.com/300x200.png?text=Project+1',
-    liveUrl: '#',
-    repoUrl: '#',
+    liveUrl: 'https://github.com/venkatagarthi333/StayEase',
+    /*repoUrl: '#',*/
   },
   {
-    title: 'Task Management App',
-    description: 'A simple and intuitive task manager to organize your day.',
+    title: 'A Personal Technical Portfolio Website',
+    description: 'A personal portfolio showcasing my projects and the skills I’ve learned along the way',
     imageUrl: 'https://via.placeholder.com/300x200.png?text=Project+2',
-    liveUrl: '#',
-    repoUrl: '#',
+    liveUrl: 'https://github.com/venkatagarthi333/portfolio',
+    /*repoUrl: '#',*/
   },
 ];
 

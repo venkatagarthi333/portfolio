@@ -6,7 +6,7 @@ const Contact = () => {
     <section id="contact" style={{textAlign: 'center'}}>
       <h2 className="section-title">Get In Touch</h2>
       <p>I'm currently open to new opportunities. Feel free to send me a message!</p>
-      <p><strong>Email:</strong> your.email@example.com</p>
+      <p><strong>Email:</strong> venkatagarthi333@gmail.com</p>
       <form className="contact-form">
         <input type="text" placeholder="Your Name" required />
         <input type="email" placeholder="Your Email" required />
